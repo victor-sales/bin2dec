@@ -1,0 +1,14 @@
+.descola-topo {
+    position: absolute;
+    top: 10%;
+    left: 8%;
+}
+
+.titulo {
+    justify-content: center;
+}
+.titulo > h1 {
+    font-size: 50px;
+    color: black;
+    font-weight: bold;
+}
